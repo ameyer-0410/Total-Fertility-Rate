@@ -1,2 +1,2 @@
-# DSC530_Final_Project
-DSC530 Final Project
+# Influences on Total Fertility Rate
+Explores economic factors that influence Total Fertility Rate fluctuations using EDA concepts.
